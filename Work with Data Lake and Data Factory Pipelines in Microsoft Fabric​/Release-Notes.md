@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-13</summary>
+
+## Release Date: 2026-04-13
+
+### Summary of Changes
+
+Screenshots and instructions updated as per the UI updates in the Fabric portal. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 01**: Reflected Fabric UI updates; corresponding screenshots and instructions have been updated.
+
+- **Lab 02**: As the Pipeline UI flow has changed, the steps and UI in Task 1 (creating a connection) have been updated. Based on Task 1, modifications were made to enhance the instructions in Task 3. In Task 2,the screenshots have been updated.
+
+### Screenshot Updates
+
+**Updated UI Screenshots**: 
+  - **Lab 1**: Task 2 - Lake house search screenshot update.
+  - **Lab 2**: Task 1 - Complete Screenshot change, Task 2 Step 1, Task 3 Step 2, Task 3 Step 4, Task 3 Step 4, Task 3 Step 8, Task 3 Step 9
+    
+### Testing Notes
+
+- **Testing Date**: 2026-04-11
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all validations passing successfully. Improved the lab flow for better clarity and refreshed the screenshots based on the latest UI changes.
+---
+</details>
+
+<details>
   <summary>2026-02-23</summary>
 
 ## Release Date: 2026-02-23
