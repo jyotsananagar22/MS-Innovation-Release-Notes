@@ -16,6 +16,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-04-15</summary>
+
+## Release Date: 2026-04-15
+
+### Summary of Changes
+
+Minor enhancements were made throughout the guide, including updating screenshots and refining instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
+  
+### Screenshot Updates
+
+- Updated the screenshots to enhance clarity.
+- Screenshots updated are:
+  - Lab 2 -- Task 2 Step 3 and 4
+  - Lab 3 -- Task 2 Step 4, 5 and 6
+  - Lab 4 -- Task 1 - Step 10, 19 and 21
+  - Lab 4 -- Task 2 - Step 3, 6, 8, 9, 10, 11, 12, 13, 14, 19, 20, 25, and 30
+  - Lab 5 -- Task 1 - Step 3 and 6
+  - Lab 5 -- Task 2 - Step 1 and 7
+  - Lab 6 -- Task 1.1 & Task 1.2 - Step 4 and 3
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-15
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all validations passing successfully. Improved the lab flow for clarity and refreshed the screenshots to match the exact UI in the Microsoft Foundry portal. 
+
+---
+</details>
+
 <details>
   <summary>2026-03-03</summary>
 
