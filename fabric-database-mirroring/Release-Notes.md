@@ -15,8 +15,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
+# Release Notes
+
 <details>
-  <summary>2026-04-04</summary>
+  <summary>2026-04-20</summary>
+
+## Release Date: 2026-04-20
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues and enhanced the instructions wherever needed.
+
+### Infrastructure Changes
+
+Updated the scripts to validate the installtion of the tools required for the labs.
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+Updated Fabric UI screenshots to reflect the latest UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-20
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. 
+
+---
+</details>
+<details>
+  <summary>2026-04-20</summary>
 
 ## Release Date: 2026-04-04
 
