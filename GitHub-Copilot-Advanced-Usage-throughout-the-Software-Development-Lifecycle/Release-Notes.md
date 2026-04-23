@@ -15,7 +15,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2026-04-10</summary>
 
+## Release Date: 2026-04-10
+
+### Summary of Changes
+
+Onboarded and updated the lab exercises to include the latest GitHub Copilot releases and updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab exercises to include the latest GitHub Copilot releases and updates.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-10
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
 
 
 
