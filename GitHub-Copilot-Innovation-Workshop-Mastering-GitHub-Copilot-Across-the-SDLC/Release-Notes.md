@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-23</summary>
+
+## Release Date: 2026-04-23
+
+### Summary of Changes
+
+Tested the lab E2E by updating the lab instructions with new VS Code UI releases.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab instructions to reflect the VS Code UI release.
+
+### Screenshot Updates
+
+- Updated the screenshots for the lab instructions to reflect the VS Code UI release.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-23
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Verified the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+<details>
   <summary>2026-04-16</summary>
 
 ## Release Date: 2026-04-16
