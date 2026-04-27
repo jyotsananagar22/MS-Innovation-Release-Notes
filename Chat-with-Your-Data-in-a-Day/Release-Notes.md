@@ -22,7 +22,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+Minor updates were implemented across the guide.Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
 
 ### Infrastructure Changes
 
