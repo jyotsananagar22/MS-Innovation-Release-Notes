@@ -1,8 +1,8 @@
 # Release Notes
 
-# MS Fabric Foundation for Enterprise Analytics
+# Lunch and Learn: Developing a Multimodal RAG Solution
 
-Welcome to the **MS Fabric Foundation for Enterprise Analytics** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Lunch and Learn: Developing a Multimodal RAG Solution** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
