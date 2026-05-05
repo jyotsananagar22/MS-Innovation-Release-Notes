@@ -23,7 +23,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor updates including refined instructions for improved clarity and accuracy.   
+  
 
 ### Infrastructure Changes
 
