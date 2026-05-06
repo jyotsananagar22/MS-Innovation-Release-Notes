@@ -23,6 +23,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
+- Minor updates refined instructions for improved clarity and accuracy.   
+The lab has been thoroughly tested, and the content has been reviewed and updated. Minor improvements have been incorporated to ensure greater clarity and accuracy in the instructions.   
   
 
 ### Infrastructure Changes
@@ -31,7 +33,7 @@ N/A
 
 ### Content Changes
 
-N/A
+- Lab instructions were refined to provide clearer and more understandable guidance.
 
 ### Screenshot Updates
 
@@ -44,6 +46,8 @@ N/A
 ### Testing Scope 
 
 - Performed end to end lab testing, and all validations were successful. Updated the lab guide for better clarity.
+Performed end-to-end lab testing with successful outcomes. Updated the lab guide to improve clarity, ensure smooth flow, enhance content accuracy, and align screenshots with the latest UI.
+
 
 ---
 </details>
