@@ -22,8 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Minor updates refined instructions for improved clarity and accuracy.   
-The lab has been thoroughly tested, and the content has been reviewed and updated. Minor improvements have been incorporated to ensure greater clarity and accuracy in the instructions.     
+- The lab was thoroughly tested and the content was reviewed and updated, with minor improvements made to the instructions to enhance clarity and accuracy and ensure a smoother learning experience.
 
 ### Infrastructure Changes
 
@@ -31,7 +30,7 @@ The lab has been thoroughly tested, and the content has been reviewed and update
 
 ### Content Changes
 
-Lab1 Task 2 : Following Instructions added:
+In the Lab, Task 2 : Following Instructions are  added:
 - If prompted, click Allow to grant the required permissions.
 
 - In the Visual Studio Code prompt, click Allow to sign in with GitHub.
